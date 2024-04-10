@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712736052 source:d:\fibonacci f(n)\fibonnaci until n\main.cpp
+	<iostream>
+	<vector>
+
